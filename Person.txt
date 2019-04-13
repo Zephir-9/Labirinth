@@ -1,0 +1,2 @@
+SymbolPerson: @
+lookRadius: 4
